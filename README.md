@@ -107,7 +107,7 @@
 ![components.drawio (2)](README.assets/components.drawio.png)
 
 
-
+<!-- 
 ####  기타 어려웠던 점.. 기억할만한 점 
 
 **Vue3**
@@ -174,7 +174,7 @@
 ```
 
 
-
+ -->
 
 
 
