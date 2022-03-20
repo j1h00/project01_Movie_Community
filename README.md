@@ -1,3 +1,7 @@
+![슬라이드5](https://user-images.githubusercontent.com/87457901/159168556-a4043ecf-f521-4f48-b26b-03473dc9ef20.jpg)
+![슬라이드6](https://user-images.githubusercontent.com/87457901/159168558-f122c91f-0bec-4e68-be7a-2bea35ab4cdd.jpg)
+
+
 # PJT FINAL  - 영화 커뮤니티 웹 프로젝트
 
 ### 영화 정보
